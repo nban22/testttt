@@ -1,8 +1,8 @@
 # Bài 1: Tổng quan Internet & Web
 
 ### Nội dung
-1. [Lịch sử Internet]()
-2. [Các khái niệm căn bản](#2-cac-khai-niem-can-ban)
+1. [Lịch sử Internet](#1-Lịch-sử-của-Internet)
+2. [Các khái niệm căn bản](#2-các-khái-niệm-căn-bảng)
 3. [Dịch vụ Web và Khai thác dịch vụ web]()
 4. [Một số thuật ngữ kỹ thuật]()
 
